@@ -150,36 +150,3 @@ pyaudio
 
 
 
-<h2 align="center">🤖 Ayman Tawfaq | مطور برمجيات</h2>
-
-<p align="center">
-  <img src="AYMAN icon.png" width="120" style="border-radius: 50%;" alt="Ayman Tawfaq Avatar"/>
-</p>
-
-<p align="center">
-  🔹 مطور ذكاء اصطناعي ومساعدات صوتية باللغة العربية  
-  🔹 شغوف بالتقنيات المفتوحة والتفاعل الصوتي  
-  🔹 أؤمن بأن البرمجة تبدأ بفكرة وتنمو بشغف 🚀
-</p>
-
-<p align="center">
-  <a href="https://github.com/Eng-Ayman-Twfaq">
-    <img src="https://img.shields.io/badge/GitHub-Eng__Ayman__Twfaq-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="mailto:ayman.tawfaq.developers@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ayman.tawfaq.developers%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-  <a href="https://wa.me/967770883615">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B967770883615-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eng-Ayman-Twfaq&show_icons=true&theme=react&hide_border=true&bg_color=00000000" alt="GitHub Stats">
-</p>
-
----
-
-<p align="center">
-  💡 "الذكاء لا يكمن في أن تعمل الآلة، بل في كيف تفهمك" – أيمن توفيق
-</p>
