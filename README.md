@@ -1,7 +1,7 @@
 # 🧠 Ayman Voice Assistant - المساعد الصوتي العربي 🎤🇸🇦
 
 <p align="center">
-  <img src="assets/icon.png" width="180" alt="Arabic Voice Assistant"/>
+  <img src="AYMAN icon.png" width="180" alt="Arabic Voice Assistant"/>
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@
 ### 1. استنساخ المستودع
 ```bash
 git clone https://github.com/Eng-Ayman-Twfaq/Ayman-Voice-Assistant.git
-cd arabic-voice-assistant
+cd Ayman-Voice-Assistant
 ```
 
 ### 2. إنشاء وتفعيل البيئة الافتراضية (Virtual Environment)
@@ -83,7 +83,7 @@ pipwin install pyaudio
 
 ### 4. تشغيل التطبيق
 ```bash
-python main.py
+python jarvis.py
 ```
 
 ---
@@ -108,11 +108,8 @@ python main.py
 ## 📂 هيكلية الملفات
 
 ```
-📦 arabic-voice-assistant
-├── main.py                # ملف التشغيل الرئيسي
-├── assistant.py           # منطق الذكاء الصوتي
-├── assets/                # صور وأصوات إضافية
-├── screenshots/           # لقطات توضيحية
+📦 Ayman Voice Assistant
+├── jarvis.py              # ملف التشغيل الرئيسي
 ├── requirements.txt       # قائمة المتطلبات
 └── README.md              # هذا الملف
 ```
